@@ -1,1 +1,1 @@
-# Hello World, hello Nemora!
+# Hello World. Hello Nemora!
